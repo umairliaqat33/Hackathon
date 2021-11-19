@@ -1,0 +1,3 @@
+C:/Users/umair/CLionProjects/Queue simple/cmake-build-debug/CMakeFiles/Hackathon.dir
+C:/Users/umair/CLionProjects/Queue simple/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/umair/CLionProjects/Queue simple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
